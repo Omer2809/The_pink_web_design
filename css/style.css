@@ -2,7 +2,7 @@
 :root{
   --primary-color:rgb(255, 0, 160);
   --secondary-color:rgb(223, 28, 151);
-  --overlay-color:rgba(255, 0, 160,0.2);
+  --overlay-color:rgba(255, 0, 160,0.1);
 }
 
 .text-primary{
